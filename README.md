@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Giagioo
-- 👀 I’m interested in anything that's programming
+- 👀 I’m interested in Programming and 3D art
 - 🌱 I’m currently learning how to web develop
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @giacomogomez on IG
+- 📫 How to reach me @giacomogomez on IG or at giacomogomezval98@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 Giagioo/Giagioo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
